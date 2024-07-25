@@ -1,11 +1,8 @@
 {
-  "name": "dogs",
+  "name": "nft-contract-with-minting",
   "version": "1.0.0",
   "description": "NFT minting contract. Uses OpenZeppelin ERC721 contract, Hardhat, and Ethers.js. Enables minting of NFTs.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": {
     "name": "Josh Miller",
     "email": "josh@truemiller.com",
