@@ -6,6 +6,7 @@
 - Based on the ERC721 standard.
 - Extends OpenZeppelin ERC721 contract.
 - Uses Hardhat for testing and deployment.
+- Works on any EVM chain, just setup Hardhat config appropriately.
 
 ## Making Changes
 
